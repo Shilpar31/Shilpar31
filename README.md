@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ I'm deeply passionate about the field of Data Science ,AI and its transformative potential.<br>📚 I hold a Master's degree in Computer Applications (MCA).<br>🎯Currently, I work as a Teaching and Research Assistant at Kristu Jayanti College, applying my skills to advance research and innovation.<br>📫 Connect with me : https://www.linkedin.com/in/shilpar2/<br>🎲 Fun fact: ELIZA, one of the first AI programs created in 1966 by Joseph Weizenbaum, could simulate a conversation with a psychotherapist, and some people became so emotionally involved with it that they believed it was truly "listening" to them! <br>Hope you learnt something new! Have a nice day!</p>
+<p align="left">✨ I'm deeply passionate about the field of Software Development,Data Science ,AI and its transformative potential.<br>📚 I hold a Master's degree in Computer Applications (MCA).<br>🎯Currently, I work as a Teaching and Research Assistant at Kristu Jayanti College, applying my skills to advance research and innovation.<br>📫 Connect with me : https://www.linkedin.com/in/shilpar2/<br>🎲 Fun fact: ELIZA, one of the first AI programs created in 1966 by Joseph Weizenbaum, could simulate a conversation with a psychotherapist, and some people became so emotionally involved with it that they believed it was truly "listening" to them! <br>Hope you learnt something new! Have a nice day!</p>
 
 ###
 
